@@ -4,7 +4,7 @@ This is the **backend API** for the Money Manager Web Application. It is built u
 
 ---
 
-## **Features**
+## Features
 
 - Add **income** and **expense** transactions with:
   - Amount
@@ -20,9 +20,13 @@ This is the **backend API** for the Money Manager Web Application. It is built u
 
 - Fetch **all transactions** for dashboard or reports.
 
----
+## How It Solves the Problem
+Many people struggle to track personal and business finances separately, leading to missed payments, poor budgeting, and confusion.  
+This backend **provides a structured, reliable system to store, update, and fetch financial transactions**. By keeping personal and business transactions separate and allowing easy retrieval of data, it enables the frontend to show **accurate dashboards, reports, and summaries**, helping users make better financial decisions and stay organized.
 
-## **Tech Stack**
+
+
+## Tech Stack
 
 - Node.js
 - Express.js
@@ -30,6 +34,5 @@ This is the **backend API** for the Money Manager Web Application. It is built u
 - dotenv (for environment variables)
 - CORS
 
----
 
 
